@@ -1,4 +1,4 @@
-[![青禹小生](https://github-readme-stats.vercel.app/api?username=juzstu&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![青禹小生](https://github-readme-stats.vercel.app/api?username=juzstu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **juzstu/juzstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
